@@ -11,5 +11,8 @@
     "url": "https://www.github.com/mwittner2/TerrapinHackers29"
   },
   "author": "Michael Wittner, Cole Alban, Marcellus Mar, Omkar Waghe",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
