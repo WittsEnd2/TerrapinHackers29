@@ -1,7 +1,7 @@
 {
   "name": "terrapinhackers29",
   "version": "1.0.0",
-  "description": "",
+  "description": "The Dine App",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,10 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.4"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "Dine",
+    "App"
+  ]
 }
