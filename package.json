@@ -1,7 +1,11 @@
 {
   "name": "terrapinhackers29",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Terrapin Hackers Dine App",
+=======
+  "description": "The Dine App",
+>>>>>>> 24dbb19197fd2976c3f8a7c0ba90fa3e05869147
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,8 +21,11 @@
   },
   "devDependencies": {},
   "keywords": [
+<<<<<<< HEAD
     "Terrapin",
     "Hackers",
+=======
+>>>>>>> 24dbb19197fd2976c3f8a7c0ba90fa3e05869147
     "Dine",
     "App"
   ]
